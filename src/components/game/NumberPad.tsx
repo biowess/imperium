@@ -35,7 +35,7 @@ export function NumberPad() {
   };
 
   return (
-    <div className="w-full max-w-[420px] flex flex-col gap-2 mt-4 lg:mt-6 shrink-0 z-10 pb-4">
+    <div className="w-full max-w-[420px] flex flex-col gap-2 mt-2 lg:mt-4 shrink-0 z-10 pb-10">
       
       {/* Controls Container - 4 Columns */}
       <div className="grid grid-cols-4 gap-2 w-full p-2 bg-black/5 border border-white/40 shadow-[inset_0_2px_10px_rgba(0,0,0,0.02)]">
