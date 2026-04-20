@@ -42,7 +42,7 @@ export function AboutScreen() {
             <div className="h-[1px] w-12 bg-imperium-border mx-auto my-2" />
             
             <p className="text-[10px] leading-relaxed uppercase tracking-widest text-graphite-700/80">
-              The crimson and sakura themes stand as a quiet testament to her elegance—a fusion of structured mechanical logic and organic warmth. Every interaction reflects the balance she brings.
+              The crimson and sakura themes stand as a quiet testament to her elegance, a fusion of structured mechanical logic and organic warmth. Every interaction reflects the balance she brings.
             </p>
           </div>
         </div>
