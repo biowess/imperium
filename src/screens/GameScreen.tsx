@@ -110,7 +110,7 @@ export function GameScreen() {
         </AnimatePresence>
       </div>
 
-      <NumberPad />
+      <NumberPad className="mb-4"/>
 
       <AnimatePresence>
         {(gameState === 'won' || gameState === 'lost') && (
