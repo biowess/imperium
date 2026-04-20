@@ -17,9 +17,7 @@
 
 <br />
 
-[![Live Demo](https://img.shields.io/badge/▶%20PLAY%20IMPERIUM-Launch%20Demo-9e1426?style=for-the-badge&labelColor=2c2727&color=9e1426)](https://YOUR_DEMO_URL_HERE)
-
-> 📌 **Demo:** Replace the link above with your deployed URL. The app is fully client-side and can be hosted on any static platform — Vercel, Netlify, GitHub Pages, or Cloudflare Pages.
+[![Live Demo](https://img.shields.io/badge/▶%20PLAY%20IMPERIUM-Launch%20Demo-9e1426?style=for-the-badge&labelColor=2c2727&color=9e1426)](https://biowess.github.io/imperium)
 
 </div>
 
